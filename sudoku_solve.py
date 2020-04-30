@@ -166,3 +166,4 @@ def search(squares, values, demo=False):
 
 def clear_terminal():
     os.system('cls' if os.name == 'nt' else 'clear')
+
